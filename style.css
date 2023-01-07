@@ -1,0 +1,28 @@
+body {
+    background-color:#BFEAF5;
+}
+
+h1{
+    color: #00025e;
+}
+
+h3{
+    color:#00025e;
+}
+
+h4{
+    color:#ff00bb;
+}
+
+hr{
+    background-color:white ;
+    border-style:none;
+    border-color: white;
+    height: 2px;
+    width: 70%
+}
+
+img{
+    height:120px;
+}
+
